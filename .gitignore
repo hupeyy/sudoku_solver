@@ -25,3 +25,4 @@ vite.config.ts.timestamp-*
 # Backend
 .ipynb_checkpoints
 sudoku.csv
+venv
